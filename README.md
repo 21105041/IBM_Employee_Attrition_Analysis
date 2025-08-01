@@ -6,7 +6,7 @@ Employee attrition is not just a number—it reflects deeper patterns in workpla
 
 > "Attrition isn’t random — it’s pattern-driven."
 
----
+--
 
 ## 🎯 Goals & Objectives
 
@@ -15,7 +15,7 @@ Employee attrition is not just a number—it reflects deeper patterns in workpla
 - Build predictive models to flag at-risk employees before they exit.
 - Empower HR teams with actionable insights and retention strategies.
 
----
+--
 
 ## 🧩 Dataset
 
@@ -24,7 +24,7 @@ Employee attrition is not just a number—it reflects deeper patterns in workpla
 - **Features**: Demographics, job roles, income, tenure, satisfaction levels, overtime, and more
 - **Target Variable**: `Attrition` (Yes/No)
 
----
+--
 
 ## 🛠 Tools & Technologies
 
@@ -35,32 +35,7 @@ Employee attrition is not just a number—it reflects deeper patterns in workpla
 | **Libraries** | `pandas`, `numpy`, `matplotlib`, `seaborn`, `sklearn`, `xgboost`, `imblearn`, `joblib` |
 | **PowerPoint**| Presenting insights & storytelling       |
 
----
-
-## 🗂 Project Structure
-Employee-Attrition-Analysis/
-│
-├── sql/
-│ ├── IBM-employee-attrition.sql # Raw table creation and cleaning
-│ └── IBM-employee-attrition-2.sql # Exploratory queries
-│
-├── notebooks/
-│ └── attrition_analysis.ipynb # Data visualization & ML modeling
-│
-├── models/
-│ └── final_model.pkl # Trained ensemble model (optional)
-│
-├── presentation/
-│ └── Employee Attrition Presentation.pptx # Final presentation deck
-│
-├── visuals/
-│ └── charts, graphs used in analysis # Optional visual assets
-│
-├── requirements.txt # Python environment setup
-└── README.md
-
-
----
+--
 
 ## 🔍 Key Insights from SQL Analysis
 
@@ -70,7 +45,7 @@ Employee-Attrition-Analysis/
 - ⚖️ **Work-Life Balance** scores of 1–2 had high attrition across roles.
 - 👩‍💼 **Females in HR** had up to **30% attrition**—highest by department and gender.
 
----
+--
 
 ## 📊 Machine Learning Approach
 
@@ -89,7 +64,7 @@ Employee-Attrition-Analysis/
 | **F1-Score**  | Harmonic balance of Precision & Recall |
 | **ROC-AUC**   | Measures model's ability to distinguish between stayers and leavers |
 
----
+--
 
 ## 💡 Business Recommendations
 
@@ -100,7 +75,7 @@ Employee-Attrition-Analysis/
 - Empower managers—*tenure with manager* is a key predictor.
 - Integrate the ML model with **HR systems** to automate retention alerts.
 
----
+--
 
 ## 📎 References
 
@@ -108,7 +83,7 @@ Employee-Attrition-Analysis/
 - **Tools**: SQL, Python, Jupyter, PowerPoint
 - **Libraries**: `sklearn`, `xgboost`, `seaborn`, `joblib`, etc.
 
----
+--
 
 ## 📌 How to Use
 
