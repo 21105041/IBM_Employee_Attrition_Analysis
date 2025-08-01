@@ -7,6 +7,7 @@ Employee attrition is not just a number—it reflects deeper patterns in workpla
 > "Attrition isn’t random — it’s pattern-driven."
 
 
+
 ## 🎯 Goals & Objectives
 
 - Analyze attrition trends across job roles, age groups, departments, etc.
@@ -15,12 +16,14 @@ Employee attrition is not just a number—it reflects deeper patterns in workpla
 - Empower HR teams with actionable insights and retention strategies.
 
 
+
 ## 🧩 Dataset
 
 - **Source**: IBM HR Analytics Employee Attrition Dataset ([Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset))
 - **Records**: 1,470 employee entries
 - **Features**: Demographics, job roles, income, tenure, satisfaction levels, overtime, and more
 - **Target Variable**: `Attrition` (Yes/No)
+
 
 
 ## 🛠 Tools & Technologies
@@ -33,6 +36,7 @@ Employee attrition is not just a number—it reflects deeper patterns in workpla
 | **PowerPoint**| Presenting insights & storytelling       |
 
 
+
 ## 🔍 Key Insights from SQL Analysis
 
 - 🔺 **Overtime employees** had nearly **3× higher attrition**.
@@ -40,6 +44,7 @@ Employee attrition is not just a number—it reflects deeper patterns in workpla
 - 🧑‍🎓 **Employees under 30** were most likely to leave.
 - ⚖️ **Work-Life Balance** scores of 1–2 had high attrition across roles.
 - 👩‍💼 **Females in HR** had up to **30% attrition**—highest by department and gender.
+
 
 
 ## 📊 Machine Learning Approach
@@ -60,6 +65,7 @@ Employee attrition is not just a number—it reflects deeper patterns in workpla
 | **ROC-AUC**   | Measures model's ability to distinguish between stayers and leavers |
 
 
+
 ## 💡 Business Recommendations
 
 - Limit overtime and restructure shifts in high-risk roles.
@@ -68,6 +74,7 @@ Employee attrition is not just a number—it reflects deeper patterns in workpla
 - Personalize engagement strategies for **single employees**.
 - Empower managers—*tenure with manager* is a key predictor.
 - Integrate the ML model with **HR systems** to automate retention alerts.
+
 
 
 ## 📎 References
