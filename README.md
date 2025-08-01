@@ -1,4 +1,4 @@
-# 🧠IBM_Employee_Attrition_Analysis
+# 🧠IBM Employee Attrition Analysis
 
 ## 👩‍💼 Project Overview
 
