@@ -6,7 +6,7 @@ Employee attrition is not just a number—it reflects deeper patterns in workpla
 
 > "Attrition isn’t random — it’s pattern-driven."
 
-###
+---
 
 ## 🎯 Goals & Objectives
 
@@ -15,7 +15,7 @@ Employee attrition is not just a number—it reflects deeper patterns in workpla
 - Build predictive models to flag at-risk employees before they exit.
 - Empower HR teams with actionable insights and retention strategies.
 
-###
+---
 
 ## 🧩 Dataset
 
@@ -24,7 +24,7 @@ Employee attrition is not just a number—it reflects deeper patterns in workpla
 - **Features**: Demographics, job roles, income, tenure, satisfaction levels, overtime, and more
 - **Target Variable**: `Attrition` (Yes/No)
 
-###
+---
 
 ## 🛠 Tools & Technologies
 
@@ -35,7 +35,7 @@ Employee attrition is not just a number—it reflects deeper patterns in workpla
 | **Libraries** | `pandas`, `numpy`, `matplotlib`, `seaborn`, `sklearn`, `xgboost`, `imblearn`, `joblib` |
 | **PowerPoint**| Presenting insights & storytelling       |
 
-###
+---
 
 ## 🔍 Key Insights from SQL Analysis
 
@@ -45,7 +45,7 @@ Employee attrition is not just a number—it reflects deeper patterns in workpla
 - ⚖️ **Work-Life Balance** scores of 1–2 had high attrition across roles.
 - 👩‍💼 **Females in HR** had up to **30% attrition**—highest by department and gender.
 
-###
+---
 
 ## 📊 Machine Learning Approach
 
@@ -64,7 +64,7 @@ Employee attrition is not just a number—it reflects deeper patterns in workpla
 | **F1-Score**  | Harmonic balance of Precision & Recall |
 | **ROC-AUC**   | Measures model's ability to distinguish between stayers and leavers |
 
-###
+---
 
 ## 💡 Business Recommendations
 
@@ -75,7 +75,7 @@ Employee attrition is not just a number—it reflects deeper patterns in workpla
 - Empower managers—*tenure with manager* is a key predictor.
 - Integrate the ML model with **HR systems** to automate retention alerts.
 
-###
+---
 
 ## 📎 References
 
