@@ -1,4 +1,4 @@
-# 🧠 IBM_Employee_Attrition_Analysis
+# 🧠IBM_Employee_Attrition_Analysis
 
 ## 👩‍💼 Project Overview
 
@@ -6,7 +6,7 @@ Employee attrition is not just a number—it reflects deeper patterns in workpla
 
 > "Attrition isn’t random — it’s pattern-driven."
 
-
+##
 
 ## 🎯 Goals & Objectives
 
