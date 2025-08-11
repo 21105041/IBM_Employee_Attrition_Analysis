@@ -32,7 +32,7 @@ Employee attrition is not just a number—it reflects deeper patterns in workpla
 |---------------|------------------------------------------|
 | **SQL**       | Data cleaning, filtering, aggregation    |
 | **Python**    | Data analysis, visualization, ML modeling|
-| **Libraries** | `pandas`, `numpy`, `matplotlib`, `seaborn`, `sklearn`, `xgboost`, `imblearn`, `joblib` |
+| **Libraries** | pandas, numpy, matplotlib, seaborn, sklearn, xgboost, imblearn, joblib |
 | **PowerPoint**| Presenting insights & storytelling       |
 
 ---
@@ -81,7 +81,7 @@ Employee attrition is not just a number—it reflects deeper patterns in workpla
 
 - **Dataset**: [Kaggle - IBM HR Analytics Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 - **Tools**: SQL, Python, Jupyter, PowerPoint
-- **Libraries**: `sklearn`, `xgboost`, `seaborn`, `joblib`, etc.
+- **Libraries**: sklearn, xgboost, seaborn, joblib, etc.
 
 ###
 
